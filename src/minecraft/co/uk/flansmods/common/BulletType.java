@@ -18,7 +18,7 @@ public class BulletType extends InfoType
 	public String dropItemOnReload = null;
 	public String dropItemOnShoot = null;
 	public String dropItemOnHit = null;
-	public boolean breaksGlass = false;
+	public boolean breaksGlass = true;
 	public boolean penetrates = false;
 	public boolean smokeTrail = false;
 	public boolean isBomb = false;
